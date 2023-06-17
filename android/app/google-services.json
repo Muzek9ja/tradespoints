@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233222772332",
+    "project_id": "tradespoints-21261",
+    "storage_bucket": "tradespoints-21261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233222772332:android:88073641871d71cb692a49",
+        "android_client_info": {
+          "package_name": "com.cyberplug.tradespoints"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJ-yhWkpiFqn4UcdlJntJG-4yaWssC34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
